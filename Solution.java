@@ -23,8 +23,8 @@ public class Solution {
 	}
 
 	/**
-	 * The method calculates the minimum swaps needed to arrange the array into an
-	 * ascending order.
+	 * The method calculates the minimum swaps needed to arrange the array into 
+	 * an ascending order.
 	 * 
 	 * @return Minimum swaps.
 	 */
