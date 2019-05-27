@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Solution {
@@ -23,8 +24,8 @@ public class Solution {
 	}
 
 	/**
-	 * The method calculates the minimum swaps needed to arrange the array into 
-	 * an ascending order.
+	 * The method calculates the minimum swaps needed to sort the array in 
+	 * ascending order.
 	 * 
 	 * @return Minimum swaps.
 	 */
